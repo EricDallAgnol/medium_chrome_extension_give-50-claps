@@ -7,6 +7,8 @@ This tool helps you 1 one simple click to give 50 claps to a Medium article you 
 
 No fancy other feature ! Simple and functional !
 
+Download it [here](https://chromewebstore.google.com/detail/give-50-claps/agfndkifenolenjbpnbpklgladhjkgga?hl=en&authuser=0) right now ! 
+
 ---
 ## How it works ?
 
